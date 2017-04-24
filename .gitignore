@@ -3,16 +3,6 @@
 /*/
 
 # Inverse ignore some stuff
-!/ProjectSettings/
-!/Assets/
+!ProjectSettings/
+!Assets/
 !.gitignore
-
-# OS Stuff
-.DS_Store
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-$RECYCLE.BIN/
-Desktop.ini
